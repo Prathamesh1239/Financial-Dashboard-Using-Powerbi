@@ -49,7 +49,7 @@ Suggested strategies to optimize costs and savings.
 # Tools and Technologies
 Data Visualization: Power BI
 
-Data Preparation: SQL 
+Data Preparation: Excel
 
 # Future Enhancements
 Automate data refresh in Power BI for real-time insights.
